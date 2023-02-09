@@ -1,0 +1,2 @@
+# mummy
+c code
